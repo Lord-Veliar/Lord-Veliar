@@ -24,3 +24,5 @@
 Также приложение предусматривает специальное меню для настройки аккаунта и прочих параметров
 <br>
 ![Это приложение создано для клиентов предприятия "Песочница"](https://github.com/Lord-Veliar/Sandbox/blob/master/Sandbox-Club/Resources/menu.PNG)
+<br>
+*Ссылка на приложение:* https://github.com/Lord-Veliar/Sandbox
